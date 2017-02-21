@@ -1,0 +1,21 @@
+{
+  "name": "lb-zipkin",
+  "version": "1.0.0",
+  "description": "A middleware layer to make using zipkin in loopback easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "zipkin": "^0.5.0",
+    "zipkin-context-cls": "^0.2.1",
+    "zipkin-instrumentation-express": "^0.5.0",
+    "zipkin-transport-http": "^0.5.0"
+   },
+  "keywords": [
+    "zipkin",
+    "loopback"
+  ],
+  "author": "anton whalley",
+  "license": "MIT"
+}
