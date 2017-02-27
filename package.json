@@ -1,6 +1,6 @@
 {
   "name": "lb-zipkin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A middleware layer to make using zipkin in loopback easier",
   "main": "index.js",
   "scripts": {
@@ -17,12 +17,12 @@
     "loopback"
   ],
   "author": "anton whalley",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "tap": "^10.2.2"
   },
   "repository": {
-     "type": "git",
-     "url": "git://github.com/No9/lb-zipkin.git"
+    "type": "git",
+    "url": "git://github.com/No9/lb-zipkin.git"
   }
 }
